@@ -14,7 +14,7 @@ echo "Hello, $usr_name and welcome"
 #cheking and printing all current users logged in 
 echo "checking for all logged in users "
 echo "............. "
-sleep 3
+sleep 4
 
 echo \
 
